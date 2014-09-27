@@ -1,5 +1,6 @@
 - Free Software version of "Finity's End";  original: {lyrics: CJ Cherryh, music: Leslie Fish}. 
-- filked by Draketo alias Arne Babenhauserheide with kind permission from Leslie Fish ( http://draketo.de ) (Tonhöhe: capo 3)
+- filked by Draketo alias Arne Babenhauserheide with kind permission from Leslie Fish ( http://draketo.de ) 
+  (Tonhöhe: capo 3)
 
 C        a             D           a
 Infinite Hands build a world to be free, 
